@@ -18,7 +18,7 @@ $burung = new Pidgeot($d['nama'], $d['tipe'], $d['level'], $d['hp'], $d['atk'], 
     <link rel="stylesheet" href="style.css"> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
-<body class="<?php echo ($burung->getLevel() > 100) ? 'mode-dewa' : ''; ?>">
+<body class="<?php echo ($burung->getLevel() > 40) ? 'mode-dewa' : ''; ?>">
     
     <header style="display: flex; justify-content: space-between; align-items: center;">
         <h1><i class="fas fa-feather-alt"></i> Pidgeot Training</h1>
