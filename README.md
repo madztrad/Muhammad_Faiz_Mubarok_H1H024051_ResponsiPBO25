@@ -15,7 +15,7 @@ Simulasi web ini menggunakan **PHP Native** dengan konsep **OOP** (Abstraction, 
 2.  **index.php**: Halaman dashboard utama untuk melihat status visual Pidgeot saat ini.
 3.  **latihan.php**: Halaman untuk memilih program latihan dan memproses logika peningkatan stat (Level, HP, Attack, dll).
 4.  **riwayat.php**: Menampilkan tabel log aktivitas latihan dan fitur reset data.
-5.  **style.css**: Mengatur tampilan antarmuka (UI) web termasuk fitur *Dark Mode* (Mode Dewa) saat level > 100.
+5.  **style.css**: Mengatur tampilan antarmuka (UI) web termasuk fitur *Dark Mode* (Mode Dewa) saat level > 40.
 
 ---
 
