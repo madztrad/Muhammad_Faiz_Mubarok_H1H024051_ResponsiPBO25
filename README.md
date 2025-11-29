@@ -22,6 +22,7 @@ Simulasi web ini menggunakan **PHP Native** dengan konsep **OOP** (Abstraction, 
 # Cara Menjalankan Program
 
 Karena menggunakan **Laravel Valet**, berikut langkah-langkahnya:
+![Image](https://github.com/user-attachments/assets/8740db78-2657-4a21-81df-902487dfa573)
 
 1.  Pastikan folder project ini berada di dalam direktori "park" Valet Anda (biasanya di `~/Sites` atau `~/code`).
 2.  Buka **Terminal**.
